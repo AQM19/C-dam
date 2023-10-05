@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<edicion nombre="FIB" num="2022">
+    <localidad>Benicassin</localidad>
+    <inicio>2022-07-14</inicio>
+    <final>2022-07-17</final>
+    <actuacion numero="1">
+        <grupo>Lori Meyers</grupo>
+        <fecha>2022-07-14</fecha>
+        <hora>21:00</hora>
+        <escenario>Heineken Silver Stage</escenario>
+    </actuacion>
+    <actuacion numero="2">
+        <grupo>Izal</grupo>
+        <fecha>2022-07-14</fecha>
+        <hora>23:45</hora>
+        <escenario>Heineken Silver Stage</escenario>
+    </actuacion>
+    <actuacion numero="75">
+        <grupo>Viva Suecia</grupo>
+        <fecha>2022-07-17</fecha>
+        <hora>03:00</hora>
+        <escenario>Heineken Silver Stage</escenario>
+    </actuacion>
+    <actuacion numero="51">
+        <grupo>The Hunna</grupo>
+        <fecha>2022-07-16</fecha>
+        <hora>23:50</hora>
+        <escenario>Shein Stage</escenario>
+    </actuacion>
+    <actuacion numero="22">
+        <grupo>Joel Corry</grupo>
+        <fecha>2022-07-15</fecha>
+        <hora>01:30</hora>
+        <escenario>Cutty Shark Stage</escenario>
+    </actuacion>
+    <actuacion numero="666">
+        <grupo>sgdds</grupo>
+        <fecha>1996-02-15</fecha>
+        <hora>22:00</hora>
+        <escenario>klnsf</escenario>
+    </actuacion>
+</edicion>
