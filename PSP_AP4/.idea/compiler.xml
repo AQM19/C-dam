@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PSP_AP4_father" />
+        <module name="PSP_AP4" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PSP_AP4" target="18" />
+      <module name="PSP_AP4_father" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

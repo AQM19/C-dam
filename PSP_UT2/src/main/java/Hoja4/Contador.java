@@ -1,0 +1,1 @@
+package Hoja4;public class Contador {private int contador;public Contador(){this.contador = 0;}public void incValor(){this.contador++;}public void decValor(){this.contador--;}public int devValor(){return this.contador;}}

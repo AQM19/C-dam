@@ -1,0 +1,15 @@
+ El volumen de la unidad D es DATOS
+ El n£mero de serie del volumen es: 7AA1-428C
+
+ Directorio de D:\Usuarios\DAM217\Desktop\Clase\PSP\UT1\Actividades\PSP_Hoja3
+
+05/10/2022  15:47    <DIR>          .
+05/10/2022  15:47    <DIR>          ..
+05/10/2022  15:30    <DIR>          .idea
+05/10/2022  15:56                 0 err.txt
+05/10/2022  15:56                 0 out.txt
+05/10/2022  15:26               650 pom.xml
+05/10/2022  15:26    <DIR>          src
+05/10/2022  15:35    <DIR>          target
+               3 archivos            650 bytes
+               5 dirs  644.744.355.840 bytes libres

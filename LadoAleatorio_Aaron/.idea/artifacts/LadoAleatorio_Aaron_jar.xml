@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LadoAleatorio_Aaron:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LadoAleatorio_Aaron_jar</output-path>
+    <root id="archive" name="LadoAleatorio_Aaron.jar">
+      <element id="module-output" name="LadoAleatorio_Aaron" />
+    </root>
+  </artifact>
+</component>

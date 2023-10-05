@@ -1,0 +1,24 @@
+
+D:\Usuarios\DAM217\Desktop\Clase\PSP\UT1\Actividades\PSP_Hoja4>echo Hola: Bienvenido 
+Hola: Bienvenido
+
+D:\Usuarios\DAM217\Desktop\Clase\PSP\UT1\Actividades\PSP_Hoja4>echo mundo 
+mundo
+
+D:\Usuarios\DAM217\Desktop\Clase\PSP\UT1\Actividades\PSP_Hoja4>dir
+ El volumen de la unidad D es DATOS
+ El n£mero de serie del volumen es: 7AA1-428C
+
+ Directorio de D:\Usuarios\DAM217\Desktop\Clase\PSP\UT1\Actividades\PSP_Hoja4
+
+06/10/2022  16:25    <DIR>          .
+06/10/2022  16:25    <DIR>          ..
+13/10/2022  15:49    <DIR>          .idea
+06/10/2022  16:00                32 ejercicio19.bat
+06/10/2022  16:09    <DIR>          out
+13/10/2022  15:49                 0 output.txt
+06/10/2022  15:50               650 pom.xml
+06/10/2022  15:50    <DIR>          src
+06/10/2022  15:55    <DIR>          target
+               3 archivos            682 bytes
+               6 dirs  619.090.407.424 bytes libres

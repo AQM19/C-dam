@@ -1,0 +1,5 @@
+Comparando fich1.txt y fich2.txt...
+Los archivos tienen tama¤os diferentes.
+
+Final inesperado de archivo
+
