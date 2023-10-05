@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/casas"
+        android:icon="@drawable/ic_casas"
+        android:title="@string/opcion_casas" />
+    <item
+        android:id="@+id/personajes"
+        android:icon="@drawable/ic_personajes"
+        android:title="@string/opcion_personajes" />
+</menu>
