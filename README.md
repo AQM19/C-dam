@@ -1,2 +1,2 @@
-# IntermodularMovil
-Proyecto de aplicación móvil
+# IntermodularEscritorio
+Repositorio de aplicación escritorio
