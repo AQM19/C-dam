@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/grafico_navegacion"
+    app:startDestination="@id/fragmentLista">
+
+    <fragment
+        android:id="@+id/fragmentLista"
+        android:name="es.aaronquintanal.quintanal_aaron.view.fragmentLista"
+        android:label="fragment_lista"
+        tools:layout="@layout/fragment_lista" >
+        <action
+            android:id="@+id/action_fragmentLista_to_fragmentDinosaurio"
+            app:destination="@id/fragmentDinosaurio" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentYacimientos"
+        android:name="es.aaronquintanal.quintanal_aaron.view.fragmentYacimientos"
+        android:label="fragment_yacimientos"
+        tools:layout="@layout/fragment_yacimientos" >
+        <action
+            android:id="@+id/action_fragmentYacimientos_to_fragmentDinosaurio"
+            app:destination="@id/fragmentDinosaurio" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentDinosaurio"
+        android:name="es.aaronquintanal.quintanal_aaron.view.fragmentDinosaurio"
+        android:label="fragment_dinosaurio"
+        tools:layout="@layout/fragment_dinosaurio" >
+        <argument
+            android:name="dino"
+            app:argType="es.aaronquintanal.quintanal_aaron.model.Dino" />
+    </fragment>
+</navigation>

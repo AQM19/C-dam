@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dinosaurios"
+        android:icon="@drawable/ic_dinosaurio"
+        android:title="@string/opcion_dinosaurios" />
+    <item
+        android:id="@+id/yacimientos"
+        android:icon="@drawable/ic_yacimientos"
+        android:title="@string/opcion_yacimientos" />
+</menu>
