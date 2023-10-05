@@ -1,0 +1,13 @@
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\bin\Debug\DEMO_Nuget_ORM.exe.config
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\bin\Debug\DEMO_Nuget_ORM.exe
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\bin\Debug\DEMO_Nuget_ORM.pdb
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\bin\Debug\EntityFramework.dll
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\bin\Debug\EntityFramework.xml
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\obj\Debug\DEMO_Nuget_ORM.csproj.AssemblyReference.cache
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\obj\Debug\DEMO_Nuget_ORM.csproj.SuggestedBindingRedirects.cache
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\obj\Debug\DEMO_Nuget_ORM.csproj.CoreCompileInputs.cache
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\obj\Debug\DEMO_Nuget_ORM.csproj.CopyComplete
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\obj\Debug\DEMO_Nuget_ORM.exe
+C:\codigo\DEMO_Nuget_ORM\DEMO_Nuget_ORM\obj\Debug\DEMO_Nuget_ORM.pdb

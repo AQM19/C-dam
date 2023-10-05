@@ -1,0 +1,16 @@
+C:\codigo\UT5_01\UT5_01\bin\Debug\UT5_01.exe.config
+C:\codigo\UT5_01\UT5_01\bin\Debug\UT5_01.exe
+C:\codigo\UT5_01\UT5_01\bin\Debug\UT5_01.pdb
+C:\codigo\UT5_01\UT5_01\obj\Debug\UT5_01.csproj.AssemblyReference.cache
+C:\codigo\UT5_01\UT5_01\obj\Debug\UT5_01.csproj.SuggestedBindingRedirects.cache
+C:\codigo\UT5_01\UT5_01\obj\Debug\MainWindow.g.cs
+C:\codigo\UT5_01\UT5_01\obj\Debug\App.g.cs
+C:\codigo\UT5_01\UT5_01\obj\Debug\UT5_01_MarkupCompile.cache
+C:\codigo\UT5_01\UT5_01\obj\Debug\UT5_01_MarkupCompile.lref
+C:\codigo\UT5_01\UT5_01\obj\Debug\MainWindow.baml
+C:\codigo\UT5_01\UT5_01\obj\Debug\UT5_01.g.resources
+C:\codigo\UT5_01\UT5_01\obj\Debug\UT5_01.Properties.Resources.resources
+C:\codigo\UT5_01\UT5_01\obj\Debug\UT5_01.csproj.GenerateResource.cache
+C:\codigo\UT5_01\UT5_01\obj\Debug\UT5_01.csproj.CoreCompileInputs.cache
+C:\codigo\UT5_01\UT5_01\obj\Debug\UT5_01.exe
+C:\codigo\UT5_01\UT5_01\obj\Debug\UT5_01.pdb

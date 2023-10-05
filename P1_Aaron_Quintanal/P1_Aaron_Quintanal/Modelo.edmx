@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="P1_Aaron_Quintanal.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Faltas">
+          <Key>
+            <PropertyRef Name="FaltaId" />
+          </Key>
+          <Property Name="FaltaId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Dia" Type="datetime" Nullable="false" />
+          <Property Name="Hora" Type="int" Nullable="false" />
+          <Property Name="Grupo" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Observaciones" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="ProfeFalta" Type="int" Nullable="false" />
+          <Property Name="ProfeSusti" Type="int" />
+        </EntityType>
+        <EntityType Name="Profesores">
+          <Key>
+            <PropertyRef Name="ProfesorId" />
+          </Key>
+          <Property Name="ProfesorId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Codigo" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Nombre" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Telefono" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Cuerpo" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_FaltaSusti">
+          <End Role="Profesores" Type="Self.Profesores" Multiplicity="0..1" />
+          <End Role="Faltas" Type="Self.Faltas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Profesores">
+              <PropertyRef Name="ProfesorId" />
+            </Principal>
+            <Dependent Role="Faltas">
+              <PropertyRef Name="ProfeSusti" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ProfesorFalta">
+          <End Role="Profesores" Type="Self.Profesores" Multiplicity="1" />
+          <End Role="Faltas" Type="Self.Faltas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Profesores">
+              <PropertyRef Name="ProfesorId" />
+            </Principal>
+            <Dependent Role="Faltas">
+              <PropertyRef Name="ProfeFalta" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="P1_Aaron_QuintanalStoreContainer">
+          <EntitySet Name="Faltas" EntityType="Self.Faltas" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Profesores" EntityType="Self.Profesores" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_FaltaSusti" Association="Self.FK_FaltaSusti">
+            <End Role="Profesores" EntitySet="Profesores" />
+            <End Role="Faltas" EntitySet="Faltas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ProfesorFalta" Association="Self.FK_ProfesorFalta">
+            <End Role="Profesores" EntitySet="Profesores" />
+            <End Role="Faltas" EntitySet="Faltas" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="P1_Aaron_Quintanal" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Falta">
+          <Key>
+            <PropertyRef Name="FaltaId" />
+          </Key>
+          <Property Name="FaltaId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Dia" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Hora" Type="Int32" Nullable="false" />
+          <Property Name="Grupo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Observaciones" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ProfeFalta" Type="Int32" Nullable="false" />
+          <Property Name="ProfeSusti" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Profesore">
+          <Key>
+            <PropertyRef Name="ProfesorId" />
+          </Key>
+          <Property Name="ProfesorId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Codigo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Nombre" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Telefono" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Cuerpo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_FaltaSusti">
+          <End Role="Profesores" Type="Self.Profesore" Multiplicity="0..1" />
+          <End Role="Faltas" Type="Self.Falta" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Profesores">
+              <PropertyRef Name="ProfesorId" />
+            </Principal>
+            <Dependent Role="Faltas">
+              <PropertyRef Name="ProfeSusti" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ProfesorFalta">
+          <End Role="Profesores" Type="Self.Profesore" Multiplicity="1" />
+          <End Role="Faltas" Type="Self.Falta" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Profesores">
+              <PropertyRef Name="ProfesorId" />
+            </Principal>
+            <Dependent Role="Faltas">
+              <PropertyRef Name="ProfeFalta" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Parcial1DB" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Faltas" EntityType="Self.Falta" />
+          <EntitySet Name="Profesores" EntityType="Self.Profesore" />
+          <AssociationSet Name="FK_FaltaSusti" Association="Self.FK_FaltaSusti">
+            <End Role="Profesores" EntitySet="Profesores" />
+            <End Role="Faltas" EntitySet="Faltas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ProfesorFalta" Association="Self.FK_ProfesorFalta">
+            <End Role="Profesores" EntitySet="Profesores" />
+            <End Role="Faltas" EntitySet="Faltas" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="P1_Aaron_QuintanalStoreContainer" CdmEntityContainer="Parcial1DB">
+          <EntitySetMapping Name="Faltas">
+            <EntityTypeMapping TypeName="P1_Aaron_Quintanal.Falta">
+              <MappingFragment StoreEntitySet="Faltas">
+                <ScalarProperty Name="FaltaId" ColumnName="FaltaId" />
+                <ScalarProperty Name="Dia" ColumnName="Dia" />
+                <ScalarProperty Name="Hora" ColumnName="Hora" />
+                <ScalarProperty Name="Grupo" ColumnName="Grupo" />
+                <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
+                <ScalarProperty Name="ProfeFalta" ColumnName="ProfeFalta" />
+                <ScalarProperty Name="ProfeSusti" ColumnName="ProfeSusti" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Profesores">
+            <EntityTypeMapping TypeName="P1_Aaron_Quintanal.Profesore">
+              <MappingFragment StoreEntitySet="Profesores">
+                <ScalarProperty Name="ProfesorId" ColumnName="ProfesorId" />
+                <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+                <ScalarProperty Name="Cuerpo" ColumnName="Cuerpo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

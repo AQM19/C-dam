@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+C:\codigo\UT2E6\UT2E6\bin\Debug\UT2E6.exe.config
+C:\codigo\UT2E6\UT2E6\bin\Debug\UT2E6.exe
+C:\codigo\UT2E6\UT2E6\bin\Debug\UT2E6.pdb
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.csproj.AssemblyReference.cache
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.csproj.SuggestedBindingRedirects.cache
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.Form1.resources
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.Properties.Resources.resources
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.csproj.GenerateResource.cache
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.csproj.CoreCompileInputs.cache
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.exe
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.pdb
+=======
+C:\codigo\UT2E6\UT2E6\bin\Debug\UT2E6.exe.config
+C:\codigo\UT2E6\UT2E6\bin\Debug\UT2E6.exe
+C:\codigo\UT2E6\UT2E6\bin\Debug\UT2E6.pdb
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.csproj.AssemblyReference.cache
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.csproj.SuggestedBindingRedirects.cache
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.Form1.resources
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.Properties.Resources.resources
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.csproj.GenerateResource.cache
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.csproj.CoreCompileInputs.cache
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.exe
+C:\codigo\UT2E6\UT2E6\obj\Debug\UT2E6.pdb
+>>>>>>> 7cd2f28877c92113fce0063e557bb9060cc28b21

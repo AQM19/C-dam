@@ -1,0 +1,8 @@
+C:\codigo\JuegoConsola\JuegoConsola\bin\Debug\JuegoConsola.exe.config
+C:\codigo\JuegoConsola\JuegoConsola\bin\Debug\JuegoConsola.exe
+C:\codigo\JuegoConsola\JuegoConsola\bin\Debug\JuegoConsola.pdb
+C:\codigo\JuegoConsola\JuegoConsola\obj\x86\Debug\JuegoConsola.csproj.AssemblyReference.cache
+C:\codigo\JuegoConsola\JuegoConsola\obj\x86\Debug\JuegoConsola.csproj.SuggestedBindingRedirects.cache
+C:\codigo\JuegoConsola\JuegoConsola\obj\x86\Debug\JuegoConsola.csproj.CoreCompileInputs.cache
+C:\codigo\JuegoConsola\JuegoConsola\obj\x86\Debug\JuegoConsola.exe
+C:\codigo\JuegoConsola\JuegoConsola\obj\x86\Debug\JuegoConsola.pdb

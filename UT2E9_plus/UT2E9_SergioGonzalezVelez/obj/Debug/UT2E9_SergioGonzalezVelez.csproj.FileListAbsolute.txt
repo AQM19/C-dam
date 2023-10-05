@@ -1,0 +1,58 @@
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\bin\Debug\UT2E9_SergioGonzalezVelez.exe.config
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\bin\Debug\UT2E9_SergioGonzalezVelez.exe
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\bin\Debug\UT2E9_SergioGonzalezVelez.pdb
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.AssemblyReference.cache
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.Contendor.resources
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.LibroFrm.resources
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.ListaLibroFrm.resources
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.PeliculaFrm.resources
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.Properties.Resources.resources
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.GenerateResource.cache
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.exe
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.pdb
+C:\Proyectos C#\UT2E9_SergioGonzalezVelez\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.ListaPeliculaFrm.resources
+<<<<<<< HEAD
+=======
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\UT2E9_SergioGonzalezVelez.exe.config
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\UT2E9_SergioGonzalezVelez.exe
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\UT2E9_SergioGonzalezVelez.pdb
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\EntityFramework.dll
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\EntityFramework.SqlServer.dll
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\EntityFramework.xml
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\EntityFramework.SqlServer.xml
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.AssemblyReference.cache
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.SuggestedBindingRedirects.cache
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.Contendor.resources
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.LibroFrm.resources
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.ListaLibroFrm.resources
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.ListaPeliculaFrm.resources
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.PeliculaFrm.resources
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.Properties.Resources.resources
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.GenerateResource.cache
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.CoreCompileInputs.cache
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.CopyComplete
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.exe
+C:\codigo\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.pdb
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\UT2E9_SergioGonzalezVelez.exe.config
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\UT2E9_SergioGonzalezVelez.exe
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\UT2E9_SergioGonzalezVelez.pdb
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\EntityFramework.dll
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\EntityFramework.xml
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.AssemblyReference.cache
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.Contendor.resources
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.LibroFrm.resources
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.ListaLibroFrm.resources
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.ListaPeliculaFrm.resources
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.PeliculaFrm.resources
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.Properties.Resources.resources
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.csproj.CopyComplete
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.exe
+C:\Users\Aaron\Desktop\DAM\DI\UT2E9_plus\UT2E9_SergioGonzalezVelez\obj\Debug\UT2E9_SergioGonzalezVelez.pdb
+>>>>>>> 57ba05023d2e4230db136cd939c65e290be59209

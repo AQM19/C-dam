@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+C:\codigo\UT2E2\UT2E2\bin\Debug\UT2E2.exe.config
+C:\codigo\UT2E2\UT2E2\bin\Debug\UT2E2.exe
+C:\codigo\UT2E2\UT2E2\bin\Debug\UT2E2.pdb
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.csproj.AssemblyReference.cache
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.csproj.SuggestedBindingRedirects.cache
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.Properties.Resources.resources
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.csproj.GenerateResource.cache
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.csproj.CoreCompileInputs.cache
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.exe
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.pdb
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.FichaSocio.resources
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.Resumen.resources
+=======
+C:\codigo\UT2E2\UT2E2\bin\Debug\UT2E2.exe.config
+C:\codigo\UT2E2\UT2E2\bin\Debug\UT2E2.exe
+C:\codigo\UT2E2\UT2E2\bin\Debug\UT2E2.pdb
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.csproj.AssemblyReference.cache
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.csproj.SuggestedBindingRedirects.cache
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.Properties.Resources.resources
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.csproj.GenerateResource.cache
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.csproj.CoreCompileInputs.cache
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.exe
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.pdb
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.FichaSocio.resources
+C:\codigo\UT2E2\UT2E2\obj\Debug\UT2E2.Resumen.resources
+>>>>>>> 7cd2f28877c92113fce0063e557bb9060cc28b21

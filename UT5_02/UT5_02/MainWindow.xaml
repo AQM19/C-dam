@@ -1,0 +1,60 @@
+﻿<Window x:Class="UT5_02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UT5_02"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel LastChildFill="True">
+            <!-- Menu -->
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="Archivo">
+                    <MenuItem x:Name="mnAbrir" Header="Abrir" Click="MenuItem_Abrir_Click"/>
+                    <Separator/>
+                    <MenuItem x:Name="mnSalir" Header="Salir" Click="MenuItem_Salir_Click"/>
+                </MenuItem>
+                <MenuItem x:Name="mnImagenes" Header="Imagenes" />
+            </Menu>
+            <!-- Menu -->
+            <!-- Toolbar -->
+            <ToolBarTray DockPanel.Dock="Top">
+                <ToolBar>
+                    <ComboBox SelectionChanged="ComboBox_SelectionChanged" Name="cboStretch">
+                        <ComboBoxItem>None</ComboBoxItem>
+                        <ComboBoxItem>Fill</ComboBoxItem>
+                        <ComboBoxItem IsSelected="True">Uniforme</ComboBoxItem>
+                        <ComboBoxItem>UniformToFill</ComboBoxItem>
+                    </ComboBox>
+                </ToolBar>
+            </ToolBarTray>
+            <!-- Toolbar -->
+            <!-- Status bar -->
+            <StatusBar DockPanel.Dock="Bottom">
+                <StatusBar.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*"/>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition Width="1*"/>
+                            </Grid.ColumnDefinitions>
+                        </Grid>
+                    </ItemsPanelTemplate>
+                </StatusBar.ItemsPanel>
+                <StatusBarItem Grid.Column="0">
+                    <TextBlock x:Name="tbRuta" Text="Ruta" VerticalAlignment="Center"/>
+                </StatusBarItem>
+                <StatusBarItem Grid.Column="1">
+                    <Separator/>
+                </StatusBarItem>
+                <StatusBarItem Grid.Column="2">
+                    <TextBlock x:Name="tbDimension" Text="Dimension" VerticalAlignment="Center"/>
+                </StatusBarItem>
+            </StatusBar>
+            <!-- Status bar -->
+            <TabControl x:Name="tbcControl" SelectionChanged="tbcControl_SelectionChanged"></TabControl>
+        </DockPanel>
+    </Grid>
+</Window>
