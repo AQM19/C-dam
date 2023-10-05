@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GuardiApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="motivo_aviso">Motivo</string>
+    <string name="fecha_aviso">Fecha</string>
+    <string name="confirmado_aviso">Confirmado</string>
+    <string name="anulado_aviso">Anulado</string>
+    <string name="hora_aviso">Hora</string>
+</resources>
