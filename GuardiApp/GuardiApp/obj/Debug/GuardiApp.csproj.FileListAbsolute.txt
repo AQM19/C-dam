@@ -1,0 +1,198 @@
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.exe.config
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.exe
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.pdb
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Buffers.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Memory.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Json.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\ZstdNet.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\MySql.Data.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Buffers.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Memory.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Json.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.fmrGuardiasMDI.resources
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmGuardiaProp.resources
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmListaGuardias.resources
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmLogin.resources
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.Properties.Resources.resources
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.CopyComplete
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.exe
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.pdb
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.exe.config
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.exe
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.pdb
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\MySql.Data.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Buffers.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Memory.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Json.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Google.Protobuf.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\ZstdNet.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\MySql.Data.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Buffers.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Memory.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Json.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.AssemblyReference.cache
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.fmrGuardiasMDI.resources
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmGuardiaProp.resources
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmListaGuardias.resources
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmLogin.resources
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.Properties.Resources.resources
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.GenerateResource.cache
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.CoreCompileInputs.cache
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.CopyComplete
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.exe
+C:\Users\JAIME\Desktop\intemodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.pdb
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.exe.config
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.exe
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.pdb
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Buffers.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Memory.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Json.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\ZstdNet.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\MySql.Data.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Buffers.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Memory.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Json.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.fmrGuardiasMDI.resources
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.FrmBuscarProfesor.resources
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmGuardiaProp.resources
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmListaGuardias.resources
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmLogin.resources
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.CopyComplete
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.exe
+C:\Users\Alumno\Desktop\Proyecto Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.pdb
+C:\Users\Alumno\Desktop\intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.FrmBuscarProfesor.resources
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.exe.config
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.exe
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\GuardiApp.pdb
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\MySql.Data.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Buffers.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Memory.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Json.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Google.Protobuf.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\ZstdNet.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\MySql.Data.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Buffers.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Memory.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Text.Json.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.fmrGuardiasMDI.resources
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.FrmBuscarProfesor.resources
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmGuardiaProp.resources
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmListaGuardias.resources
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.frmLogin.resources
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.Properties.Resources.resources
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.GenerateResource.cache
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.csproj.CopyComplete
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.exe
+C:\Users\aaron\OneDrive\Escritorio\DAM\Intermodular\IntermodularEscritorio\GuardiApp\GuardiApp\obj\Debug\GuardiApp.pdb
