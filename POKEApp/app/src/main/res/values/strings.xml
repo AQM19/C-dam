@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Pokedex</string>
-    <string name="prueba">Prueba</string>
-    <string name="siguiente_pokemon">Siguiente pokemon</string>
-    <string name="pokemon_aleatorio">Pokemon aleatorio</string>
-    <string name="anterior_pokemon">Anterior pokemon</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-</resources>
