@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/drawable-v24/ic_casas.xml" value="0.1385" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/drawable-v24/ic_matar.xml" value="0.1385" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/drawable-v24/ic_papelera.xml" value="0.1385" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/drawable-v24/ic_personajes.xml" value="0.1385" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/layout/casa_adapter.xml" value="0.365625" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/layout/fragment_casas.xml" value="0.17831813576494426" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/layout/fragment_casas2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/layout/fragment_detalle_casa.xml" value="0.25" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/layout/fragment_detalle_casa2.xml" value="0.18802083333333333" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/layout/fragment_personaje_adapter.xml" value="0.4118004866180049" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/layout/fragment_personajes_vivos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/layout/fragment_personajes_vivos2.xml" value="0.35260416666666666" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/layout/personaje_adapter.xml" value="0.365625" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/layout/personaje_estado_adapter.xml" value="0.365625" />
+        <entry key="..\:/Usuarios/DAM225/AndroidStudioProjects/PMDM/Quintanal_Aaron_Examen_UT4/app/src/main/res/menu/menu_inferior.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

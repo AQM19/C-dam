@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">App_Ut2_06</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reserva">Reserva tus entradas</string>
+    <string name="zoologico">ZOOLÓGICO</string>
+    <string name="reptario">REPTARIO</string>
+    <string name="visita_guiada">VISITA GUIADA</string>
+    <string name="adultos">Adultos</string>
+    <string name="niños">Niños</string>
+    <string name="precio_total">Total: %s</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="tipo_entrada">Tipo de entrada</string>
+    <string name="tipo_reserva">%s</string>
+    <string name="fecha">Fecha seleccionada</string>
+    <string name="fechaSeleccionada">%s</string>
+    <string name="personas">Número de personas</string>
+    <string name="numeroPersonas">Adultos: %s - Niños: %s</string>
+    <string name="reservar">Reservar</string>
+</resources>
